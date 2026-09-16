@@ -1,0 +1,12 @@
+SSH Activity Timeline,,,
+Time,Source,IP,Activity
+14:25,SSH,195.178.110.228,Connection closed
+14:28,SSH,195.178.110.228,Root authentication failure
+14:29,SSH,195.178.110.228,Failed password for root
+14:29,SSH,195.178.110.228,Connection closed by authentication user root
+14:30,SSH,195.178.110.228,Root authentication failure
+14:30,SSH,195.178.110.228,Failed password for root
+14:30,SSH,195.178.110.228,Connection closed by authentication user root
+14:32,SSH,195.178.110.228,Root authentication failure
+14:32,SSH,195.178.110.228,Failed password for root
+14:32,SSH,195.178.110.228,Connection closed by authentication user root
